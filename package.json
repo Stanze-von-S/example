@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "cross-env": "^7.0.2",
     "ts-loader": "^8.0.1",
     "typescript": "^3.9.7",
     "webpack": "^4.44.0",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "tsc": "^1.20150623.0"
   }
 }
