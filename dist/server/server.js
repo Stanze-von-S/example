@@ -126,11 +126,10 @@ eval("\r\nvar __createBinding = (this && this.__createBinding) || (Object.create
 /*!*******************************!*\
   !*** ./src/shared/header.css ***!
   \*******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nvar ___CSS_LOADER_EXPORT___ = {};\n// Exports\n___CSS_LOADER_EXPORT___.locals = {\n\t\"example\": \"header__example--XqmkS\"\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./src/shared/header.css?");
+eval("// Exports\nmodule.exports = {\n\t\"example\": \"header__example--QgiVa\"\n};\n\n\n//# sourceURL=webpack:///./src/shared/header.css?");
 
 /***/ }),
 
