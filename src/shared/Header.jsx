@@ -1,5 +1,6 @@
 import { hot } from 'react-hot-loader/root';
 import * as React from 'react';
+import styles from './header.css';
 
 // function HeaderComponent() {
 //   const [state, setState] = React.useState(false);
@@ -20,10 +21,7 @@ import * as React from 'react';
 function HeaderComponent() {
   return (
     <header>
-      <h1>Reddit for our own</h1>
-      <p>
-        Hello World
-      </p>
+      <h1 className={styles.example}>Reddit for our own</h1>     
     </header>      
   );
 }
